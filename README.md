@@ -25,4 +25,4 @@ UX Writer — wrote all microcopy, built voice & tone guide, ran A/B copy testin
 Figma, Notion, Maze (usability testing)
 
 ## Status
-https://www.figma.com/design/VCQDVx7PWS8mwsNIeKnQtW/Sonesh-Sri-Venkat-s-team-library?node-id=0-1&t=ZGSIVLZOo81UO6tO-1
+https://www.figma.com/design/Tk8R5Nim7tl8jornw2spvS/Untitled?node-id=0-1&t=ZGSIVLZOo81UO6tO-1
